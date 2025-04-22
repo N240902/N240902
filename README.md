@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi there 👋 I am Nandipha Zigwebile
 
-<!--
-**N240902/N240902** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+An aspiring developer who completed a 6-month coding journey at Life Choices Academy, passionate about creating innovative web solutions, seeking an internship.
+Welcome to my GitHub profile! I'm a passionate developer with experience in both frontend and backend technologies. I enjoy creating web applications, solving problems through code, and continuously learning new tools and frameworks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Skills & Technologies
+🌐 Frontend
+HTML5 CSS3 JavaScript Vue.js
+
+🖥️ Backend
+Python PHP Node.js
+
+💾 Databases
+MySQL Oracle
+
+📫 Connect with Me
+Email: nandiphazigwebile@gmail.com
+LinkedIn:[My linkedIn](www.linkedin.com/in/nandipha-zigwebile-1a50972a5)
+Portfolio: coming soon
+Thanks for stopping by!
+## Skills and Tools(languages)
+
+
